@@ -1,6 +1,7 @@
 # CliMatch
 
-Traits underlying climate matching (CliMatch)
+Computer code underlying the following publication:
+Duarte S. Viana & Jonathan M. Chase. Ecological traits underlying interspecific variation in climate matching of birds. Global Ecology and Biogeography, https://doi.org/10.1111/geb.13480
 
 Author: Duarte S. Viana
 
